@@ -1,0 +1,19 @@
+{
+  "name": "chalkexample",
+  "version": "0.0.1",
+  "description": "chalk test application example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "w1d5",
+    "chalk",
+    "example"
+  ],
+  "author": "leisha",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
